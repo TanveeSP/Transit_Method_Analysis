@@ -149,10 +149,10 @@ This project demonstrates how **physics and mathematical modeling** can be appli
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Tanvee Sushama Paresh** <br>
-GitHub: https://github.com/TanveeSP
+- **Name:** Tanvee Sushama Paresh  
+- **GitHub:** [TanveeSP](https://github.com/TanveeSP)
 ---
 
 <p align="center">
