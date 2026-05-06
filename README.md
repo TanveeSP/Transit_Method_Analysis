@@ -108,7 +108,7 @@ We quantify how the Sun’s brightness changes when Jupiter passes in front of i
 * Converted it into magnitude change
 
 👉 **Run Notebook:**
-[Open Q5 Notebook](./Notebooks/A5Q5.ipynb)
+[Open Q5 Notebook](./Notebooks/A3Q5.ipynb)
 
 ---
 
@@ -122,7 +122,7 @@ A similar analysis is performed for Earth to highlight differences in detectabil
 * Compared with Jupiter’s transit impact
 
 👉 **Run Notebook:**
-[Open Q6 Notebook](./Notebooks/A6Q6.ipynb)
+[Open Q6 Notebook](./Notebooks/A3Q6.ipynb)
 
 ---
 
