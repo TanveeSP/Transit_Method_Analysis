@@ -38,8 +38,9 @@ Each part is solved independently in well-structured Jupyter Notebooks.
  ┃ ┣ 📓 A4Q4.ipynb
  ┃ ┣ 📓 A5Q5.ipynb
  ┃ ┗ 📓 A6Q6.ipynb
+ ┣ 📜 requirements.txt
 ```
-
+> *Run command [pip install -r requirements.txt] before executing any notebook*
 ---
 
 ## ☀️ 1. Solar Flux & Bolometric Magnitude
